@@ -1,9 +1,9 @@
 ---
-title: "General Purpose CV from blog"
+title: "General Purpose CV project"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2023"
+pubDate: "Sep 10 2022"
 heroImage: "/post_img.webp"
-tags: ["CV"]
+tags: []
 ---
 # Luis Eduardo Augusto
 Product Manager | Growth Manager | Entrepreneur

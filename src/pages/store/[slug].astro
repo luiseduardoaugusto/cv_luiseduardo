@@ -1,7 +1,7 @@
 ---
 import { CollectionEntry, getCollection } from "astro:content";
 import { StoreSchema } from "../../content/config";
-import StoreItemLayout from "../../layouts/StoreItemLayout.astro";
+import StoreItemLayout from "../../layouts/ProjectItemLayout.astro";
 
 export async function getStaticPaths() {
   const itemEntries = await getCollection("store");
